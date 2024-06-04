@@ -1,8 +1,8 @@
 
 ![Poster Puskesmasku (2)](https://github.com/nurkholiswakhid/Puskesmasku/assets/125814325/82ef1aed-ae3c-43b0-a6c0-d3ec8f29ca3c)
 
-# Puskesmasku - Sistem Aplikasi Puskesmas Berbasis Web
-Puskesmasku adalah aplikasi berbasis web yang bertujuan untuk mengelola data dan informasi terkait layanan kesehatan masyarakat di Puskesmas. Aplikasi ini memungkinkan admin Puskesmas untuk mengelola informasi secara efisien, serta memfasilitasi pasien dalam melakukan pendaftaran layanan kesehatan secara online dan memungkinkan dokter untuk menerima serta mengelola pemeriksaan pasien.
+# Puskesmasku - Sistem Antrian Puskesmas Berbasis Web
+Puskesmasku adalah web yang bertujuan untuk mengelola data dan informasi terkait layanan kesehatan masyarakat di Puskesmas. Aplikasi ini memungkinkan admin Puskesmas untuk mengelola informasi secara efisien, serta memfasilitasi pasien dalam melakukan pendaftaran layanan kesehatan secara online dan memungkinkan dokter untuk menerima serta mengelola pemeriksaan pasien.
 
 # Fitur Utama
 • Manajemen Pengguna: Aplikasi memisahkan antara tiga level pengguna: Admin Puskesmas, Pasien, dan Dokter. Setiap level memiliki akses yang terkait dengan perannya.
